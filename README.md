@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Nomo
 
-<!--
-**nomomo/nomomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My main job involves developing commercial physics engines based on C++.
+- Everything I upload here is just things I've developed as a hobby. I don't share anything related to my work here.
+- 📝 Blog: [https://nomo.asia/](https://nomo.asia/)
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reverse engineering websites
+- Creating toys with Python and UserScript
+
+### Happy?
+
+<a href="https://www.buymeacoffee.com/nomomo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nomomo" /></a>
