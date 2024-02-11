@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Nomo
 
-- 🔭 My main job involves developing commercial physics engines based on C++.
-- Everything I upload here is just things I've developed as a hobby. I don't share anything related to my work here.
+- 🔭 My main job is developing commercial physics engines based on C++.
+- 🎮 Everything I upload here is just things I developed as hobbies. I don't upload anything related to my job here.
 - 📝 Blog: [https://nomo.asia/](https://nomo.asia/)
 
 ### Interests
